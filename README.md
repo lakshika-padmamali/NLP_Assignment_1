@@ -1,6 +1,7 @@
 # NLP_Assignment_1
 
-This repository contains implementations of Word2Vec (Skip-gram, Skip-gram Negative Sampling) and GloVe, along with a Streamlit-based web application to search for the top 10 most similar words based on embeddings.
+This repository contains implementations of Word2Vec (Skip-gram, Skip-gram Negative Sampling) and GloVe, along with a Streamlit-based web application to search for the top 10 most similar words based on embeddings. The app.py is deployed in streamlit : https://nlpassignment1.streamlit.app/
+
 
 Files
 Code and Models
